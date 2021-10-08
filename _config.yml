@@ -107,9 +107,7 @@ author:
   location         : "South Incheon"
   email            : "siyeon00@kakao.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:siyeon00@kakao.com"
+ 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Beluo00"
@@ -122,7 +120,16 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Beluo00"
-    
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
 
 # Reading Files
 include:
